@@ -1,0 +1,5 @@
+Relationship,Prefix
+isFedBy,brick
+isPartOf,brick
+type,rdf
+isPointOf,brick

@@ -1,0 +1,5 @@
+column1,column2,column3,columnX
+COIL:COOLING:DX:TWOSPEED,ACDXCOIL 1,Cooling Coil Runtime Fraction,"Coil, Cooling Coil, Direct Expansion Cooling Coil"
+FAN:VARIABLEVOLUME,SUPPLY FAN 1,Fan Air Mass Flow Rate,Fan
+HVAC Equipment,"AIR LOOP OUTLET NODE, HEATING COIL AIR INLET NODE","System Node Mass Flow Rate, System Node Setpoint Temperature, System Node Temperature",
+,"ATTIC ZONE, EAST ZONE, NORTH ZONE, WEST ZONE","Zone Air Relative Humidity, Zone Mean Air Temperature, Zone People Occupant Count, Zone Thermostat Cooling Setpoint Temperature, Zone Thermostat Heating Setpoint Temperature",Zone

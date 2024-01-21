@@ -1,0 +1,5 @@
+Prefix,URI
+brick,https://brickschema.org/schema/Brick#
+bms,https://example.com/bms#
+ext,https://example.com/schema/BrickExtension#
+rdf,http://www.w3.org/1999/02/22-rdf-syntax-ns#
